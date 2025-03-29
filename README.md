@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💻 Skills & Technologies</p>
+<h3 align="left">💻 Skills & Technologies</h3>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">🚀 Let's Connect</p>
+<h3 align="left">🚀 Let's Connect</h3>
 
 ###
 
