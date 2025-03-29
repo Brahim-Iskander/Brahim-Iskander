@@ -37,10 +37,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Brahim-Iskander/Brahim-Iskander/output/snake.svg" alt="Snake animation" />
-
-###
